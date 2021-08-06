@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\UnrealEngineProjects\\BuildingEscapeGame\\BuildingEscapeRoom\\BuildingRoom\\Source\\BuildingRoom\\BuildingRoom.Build.cs",
+		"F:\\UnrealEngineProjects\\BuildingEscapeGame\\BuildingEscapeRoom\\BuildingRoom\\Source\\BuildingRoom.Target.cs",
+		"F:\\UnrealEngineProjects\\BuildingEscapeGame\\BuildingEscapeRoom\\BuildingRoom\\Source\\BuildingRoomEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

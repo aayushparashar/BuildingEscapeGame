@@ -1,0 +1,16 @@
+﻿  Building BuildingRoomEditor...
+  Using Visual Studio 2019 14.27.29111 toolchain (D:\Visual Studio\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 8 processes...
+    [1/9] Grabber.gen.cpp
+    [2/9] BuildingRoom.init.gen.cpp
+    [3/9] OpenTheDoor.gen.cpp
+    [4/9] BuildingRoomGameModeBase.gen.cpp
+    [5/9] BuildingRoomGameModeBase.cpp
+    [6/9] OpenDoor.gen.cpp
+    [7/9] UE4Editor-BuildingRoom-0002.lib
+       Creating library F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\UE4Editor-BuildingRoom-0002.lib and object F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\UE4Editor-BuildingRoom-0002.exp
+    [8/9] UE4Editor-BuildingRoom-0002.dll
+       Creating library F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\UE4Editor-BuildingRoom-0002.suppressed.lib and object F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\UE4Editor-BuildingRoom-0002.suppressed.exp
+    [9/9] BuildingRoomEditor.target
+  Total time in Parallel executor: 1620.34 seconds
+  Total execution time: 1646.90 seconds

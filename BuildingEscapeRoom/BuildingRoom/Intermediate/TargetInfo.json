@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingRoom",
+			"Path": "F:\\UnrealEngineProjects\\BuildingEscapeGame\\BuildingEscapeRoom\\BuildingRoom\\Source\\BuildingRoom.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingRoomEditor",
+			"Path": "F:\\UnrealEngineProjects\\BuildingEscapeGame\\BuildingEscapeRoom\\BuildingRoom\\Source\\BuildingRoomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

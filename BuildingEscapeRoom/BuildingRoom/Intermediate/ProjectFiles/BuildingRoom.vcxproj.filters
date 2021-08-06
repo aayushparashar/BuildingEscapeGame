@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BuildingRoom.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A5C0613A-97F6-47AD-A0AA-070A7562F7AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuildingRoom.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BuildingRoomEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F70A9981-2DDC-447F-89A4-743B04B1C041}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BuildingRoom">
+      <UniqueIdentifier>{D27D5AD9-7208-4D86-AA1E-C09C251BC172}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuildingRoom\BuildingRoom.Build.cs">
+      <Filter>Source\BuildingRoom</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BuildingRoom\BuildingRoom.cpp">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingRoom\BuildingRoom.h">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingRoom\BuildingRoomGameModeBase.cpp">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingRoom\BuildingRoomGameModeBase.h">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingRoom\Grabber.cpp">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingRoom\Grabber.h">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingRoom\OpenDoor.cpp">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingRoom\OpenDoor.h">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingRoom\OpenTheDoor.cpp">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingRoom\OpenTheDoor.h">
+      <Filter>Source\BuildingRoom</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

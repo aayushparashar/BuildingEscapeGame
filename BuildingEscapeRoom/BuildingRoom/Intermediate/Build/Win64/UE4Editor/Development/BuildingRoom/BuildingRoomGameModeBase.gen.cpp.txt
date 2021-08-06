@@ -1,0 +1,9 @@
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\Definitions.BuildingRoom.h
+F:\Unreal Engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Unreal Engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Source\BuildingRoom/BuildingRoomGameModeBase.h
+F:\Unreal Engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Unreal Engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Unreal Engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Unreal Engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Inc\BuildingRoom\BuildingRoomGameModeBase.generated.h

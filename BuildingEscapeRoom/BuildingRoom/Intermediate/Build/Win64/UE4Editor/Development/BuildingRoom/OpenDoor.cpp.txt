@@ -1,0 +1,5 @@
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\Definitions.BuildingRoom.h
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Source\BuildingRoom\OpenDoor.h
+F:\Unreal Engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
+F:\Unreal Engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Inc\BuildingRoom\OpenDoor.generated.h

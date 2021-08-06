@@ -1,0 +1,3 @@
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Development\BuildingRoom\Definitions.BuildingRoom.h
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Source\BuildingRoom\OpenTheDoor.h
+F:\UnrealEngineProjects\BuildingEscapeGame\BuildingEscapeRoom\BuildingRoom\Intermediate\Build\Win64\UE4Editor\Inc\BuildingRoom\OpenTheDoor.generated.h
